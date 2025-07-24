@@ -10,7 +10,7 @@ The above three repositories are already cloned in the LogoDetection project fol
 flickr_logo_27 dataset: (https://www.kaggle.com/datasets/sushovansaha9/flickr-logos-27-dataset).  
 Preprocessed dataset versions: (https://app.roboflow.com/ishan-0rofb/logo-detection-kjo5a).  
 Install Python3.11 to run the app. Create a seperate python environment or make sure python311 is added to system environment variable.  
-Install dependencies using CLI(cmd.exe). Run command - pip install requirements.txt  
+Install dependencies using CLI(cmd.exe). Run command - pip install -r requirements.txt  
 Download the project folder to local drive  
 Navigate to project root - LogoDetection  
 Open app using CLI(cmd.exe).Run command - streamlit run main.py  
