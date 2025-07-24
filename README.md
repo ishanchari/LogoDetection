@@ -4,7 +4,7 @@ Streamlit App using YOLOv11, RetinaNet, and DETR
 This repository is a **Streamlit-based Computer Vision app** for detecting brand logos in images and videos using three different deep learning architectures:
 - [YOLOv11](https://github.com/ultralytics/ultralytics)
 - [RetinaNet](https://github.com/fizyr/pytorch-retinanet)
-- [DETR (Detection Transformer)](https://github.com/facebookresearch/DeepLogo2)
+- [DETR (Detection Transformer)](https://github.com/satojkovic/DeepLogo2)
 
 The above three repositories are already cloned in the LogoDetection project folder in the gooogle drive link below.
 flickr_logo_27 dataset: (https://www.kaggle.com/datasets/sushovansaha9/flickr-logos-27-dataset)
